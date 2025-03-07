@@ -68,7 +68,7 @@ const content = {
     en: 'I\'m a passionate Full Stack Developer with a focus on creating efficient and scalable web applications. With expertise in both frontend and backend technologies, I strive to build seamless user experiences while maintaining robust server-side functionality. My approach combines technical skill with creative problem-solving.',
     id: 'Saya adalah Pengembang Full Stack yang bersemangat dengan fokus pada pembuatan aplikasi web yang efisien dan terukur. Dengan keahlian dalam teknologi frontend dan backend, saya berusaha membangun pengalaman pengguna yang mulus sambil mempertahankan fungsionalitas sisi server yang kuat. Pendekatan saya menggabungkan keterampilan teknis dengan pemecahan masalah yang kreatif.'
   },
-  'about.experience': {
+  'about.years': {
     en: 'Years Experience',
     id: 'Tahun Pengalaman'
   },
@@ -83,6 +83,34 @@ const content = {
   'about.skills': {
     en: 'Technologies',
     id: 'Teknologi'
+  },
+  'about.workExperience': {
+    en: 'Work Experience',
+    id: 'Pengalaman Kerja'
+  },
+  'experience.role1': {
+    en: 'Senior Full Stack Developer',
+    id: 'Pengembang Full Stack Senior'
+  },
+  'experience.description1': {
+    en: 'Led development of enterprise applications, implementing best practices and mentoring junior developers.',
+    id: 'Memimpin pengembangan aplikasi perusahaan, menerapkan praktik terbaik dan membimbing pengembang junior.'
+  },
+  'experience.role2': {
+    en: 'Full Stack Developer',
+    id: 'Pengembang Full Stack'
+  },
+  'experience.description2': {
+    en: 'Developed and maintained multiple web applications, focusing on frontend UI/UX and backend API development.',
+    id: 'Mengembangkan dan memelihara beberapa aplikasi web, fokus pada UI/UX frontend dan pengembangan API backend.'
+  },
+  'experience.role3': {
+    en: 'Junior Web Developer',
+    id: 'Pengembang Web Junior'
+  },
+  'experience.description3': {
+    en: 'Created responsive websites and added features to existing applications under senior guidance.',
+    id: 'Membuat website responsif dan menambahkan fitur ke aplikasi yang ada di bawah bimbingan senior.'
   },
   'projects.subtitle': {
     en: 'My Projects',
