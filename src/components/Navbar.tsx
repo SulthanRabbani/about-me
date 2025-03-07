@@ -50,7 +50,7 @@ const Navbar = () => {
             className="group relative z-10"
           >
             <span className="text-2xl font-bold tracking-tight flex items-center gap-1">
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-purple-600">Sulthan</span>
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-purple-600">sulthan.dev</span>
               <span className="text-purple-500 font-light opacity-0 group-hover:opacity-100 transition-opacity duration-300">_</span>
             </span>
             <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-purple-400 to-purple-600 group-hover:w-full transition-all duration-300"></span>

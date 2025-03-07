@@ -54,7 +54,7 @@ const About = () => {
   ];
 
   const stats = [
-    { value: '5+', label: t('about.experience') },
+    { value: '3+', label: t('about.experience') },
     { value: '40+', label: t('about.completed') },
     { value: '15+', label: t('about.clients') },
   ];
